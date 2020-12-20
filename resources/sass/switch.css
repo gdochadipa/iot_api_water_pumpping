@@ -1,0 +1,15 @@
+.vue-switcher-theme--custom.vue-switcher-color--blue div {
+  background-color: #3333ff;
+}
+
+.vue-switcher-theme--custom.vue-switcher-color--blue div:after {
+  background-color: #0000e6;
+}
+
+.vue-switcher-theme--custom.vue-switcher-color--blue.vue-switcher--unchecked div {
+  background-color: #9999ff;
+}
+
+.vue-switcher-theme--custom.vue-switcher-color--blue.vue-switcher--unchecked div:after {
+  background-color: #3333ff;
+}
